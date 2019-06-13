@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "true": {
+    "status": true
+  },
+  "false": {
+    "status": false
   }
 }
